@@ -1,0 +1,5 @@
+{
+    "python.pythonpath": "/usr/local/bin/python3",
+    "window.zoomlevel": 6,
+    "python.languageServer": "Pylance"
+}
